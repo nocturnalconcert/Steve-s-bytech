@@ -1,2 +1,2 @@
 # Steve-s-bytech
-Website for repair and selling phone accessories 
+Website for repair and selling phone accessories.
